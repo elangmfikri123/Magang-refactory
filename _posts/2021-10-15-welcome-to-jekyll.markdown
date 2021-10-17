@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 | **NO** | **TANGGAL** | **KEGIATAN** |
 | --- | --- | --- |
-| **1.** | 16/10/2021 | membuat auth token masih belum bisa terbaca di Post Mannya, saat registrasi seharusnya keterangannya "Email Berhasil Terdaftar" tapi pada postman terdapat message "Email Sudah Terdaftar" |-|-||
+| **1.** | 16/10/2021 | membuat auth token masih belum bisa terbaca di Post Mannya, saat registrasi seharusnya keterangannya "Email Berhasil Terdaftar" tapi pada postman terdapat message "Email Sudah Terdaftar" |
