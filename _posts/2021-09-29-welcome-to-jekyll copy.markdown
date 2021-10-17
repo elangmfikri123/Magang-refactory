@@ -26,3 +26,4 @@ categories: jekyll update
 | **18.** | 29/09/2021 | Update Blog | - | - ||
 | **19.** | 04/10/2021 | Update Blog, Melanjutkan membuat restapi login, register, validation . database sudah terkoneksi| database sudah terkoneksi tapi saat ditest dipostman belum muncul perubahan | Sedang solving sendiri ||
 | **20.** | 12/10/2021 | Update Blog, Bikin jwt + token dilogin dan register| belum terbaca dipost man dan masih error | Solve sendiri ||
+| **21.** | 16/10/2021 | Update Blog, Bikin jwt + token dilogin dan register| masih terdapat eror | bacabaca dokumentasi lagi sambil coba coba ||
